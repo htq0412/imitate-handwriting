@@ -1,0 +1,7 @@
+Microsoft Windows [版本 10.0.19044.1586]
+(c) Microsoft Corporation。保留所有权利。
+
+C:\Users\Smile>cd C:\Users\Smile\Desktop\新建文件夹\模仿笔迹
+
+C:\Users\Smile\Desktop\新建文件夹\模仿笔迹>python main.py 111.txt
+success!
